@@ -1,0 +1,17 @@
+C:\Users\barne\Desktop\CCBI\ccbiTest\ccbiTest\bin\Debug\net6.0\ccbiTest.exe
+C:\Users\barne\Desktop\CCBI\ccbiTest\ccbiTest\bin\Debug\net6.0\ccbiTest.deps.json
+C:\Users\barne\Desktop\CCBI\ccbiTest\ccbiTest\bin\Debug\net6.0\ccbiTest.runtimeconfig.json
+C:\Users\barne\Desktop\CCBI\ccbiTest\ccbiTest\bin\Debug\net6.0\ccbiTest.dll
+C:\Users\barne\Desktop\CCBI\ccbiTest\ccbiTest\bin\Debug\net6.0\ccbiTest.pdb
+C:\Users\barne\Desktop\CCBI\ccbiTest\ccbiTest\obj\Debug\net6.0\ccbiTest.csproj.AssemblyReference.cache
+C:\Users\barne\Desktop\CCBI\ccbiTest\ccbiTest\obj\Debug\net6.0\ccbiTest.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\barne\Desktop\CCBI\ccbiTest\ccbiTest\obj\Debug\net6.0\ccbiTest.AssemblyInfoInputs.cache
+C:\Users\barne\Desktop\CCBI\ccbiTest\ccbiTest\obj\Debug\net6.0\ccbiTest.AssemblyInfo.cs
+C:\Users\barne\Desktop\CCBI\ccbiTest\ccbiTest\obj\Debug\net6.0\ccbiTest.csproj.CoreCompileInputs.cache
+C:\Users\barne\Desktop\CCBI\ccbiTest\ccbiTest\obj\Debug\net6.0\ccbiTest.dll
+C:\Users\barne\Desktop\CCBI\ccbiTest\ccbiTest\obj\Debug\net6.0\refint\ccbiTest.dll
+C:\Users\barne\Desktop\CCBI\ccbiTest\ccbiTest\obj\Debug\net6.0\ccbiTest.pdb
+C:\Users\barne\Desktop\CCBI\ccbiTest\ccbiTest\obj\Debug\net6.0\ccbiTest.genruntimeconfig.cache
+C:\Users\barne\Desktop\CCBI\ccbiTest\ccbiTest\obj\Debug\net6.0\ref\ccbiTest.dll
+C:\Users\barne\Desktop\CCBI\ccbiTest\ccbiTest\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\barne\Desktop\CCBI\ccbiTest\ccbiTest\obj\Debug\net6.0\ccbiTest.csproj.CopyComplete
